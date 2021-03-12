@@ -40,7 +40,6 @@ public class Errores {
                         + "Error Relativo:    "+e.errorRelativo()+"\n"
                         + "Error Relativo (%):    "+e.errorRelativoPorcentual());
     }
-//Pec0ch0nch1n
     public double getValorReal() {
         return valorReal;
     }
